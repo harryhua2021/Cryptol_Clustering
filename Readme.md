@@ -19,3 +19,5 @@ Deliverable 3: Clustering Cryptocurrencies Using K-means
 
 Deliverable 4: Visualizing Cryptocurrencies Results
 ## Results
+![alt text](https://github.com/harryhua2021/Cryptol_Clustering/blob/master/img/3D_Scatter.png)
+![alt text](https://github.com/harryhua2021/Cryptol_Clustering/blob/master/img/hvplot.png)
